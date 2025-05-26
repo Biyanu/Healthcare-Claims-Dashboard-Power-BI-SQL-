@@ -1,6 +1,6 @@
 # Healthcare Claims Dashboard (Power BI + SQL)
 
-![Dashboard Demo](.Ddashboard.gif)
+![Dashboard Demo](./Dashboard.gif)
 
 ## 🔍 Overview
 
