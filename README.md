@@ -8,7 +8,7 @@ This project analyzes healthcare insurance claims data using **PostgreSQL** for 
 
 ## 📦 Dataset
 
-* **Source**: [Kaggle – Enhanced Health Insurance Claims](insert-your-kaggle-link)
+* **Source**: [Kaggle – Enhanced Health Insurance Claims](https://www.kaggle.com/datasets/leandrenash/enhanced-health-insurance-claims-dataset)
 
 ## 🛠 Tools
 
